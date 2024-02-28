@@ -127,5 +127,7 @@ def test_search_data_success():
 
     response = client.get(url, json=body)
 
+    delete_unittest_mahasiswa()
+
     assert response.status_code == 200
     assert response.get_json()["search_status"] == True
