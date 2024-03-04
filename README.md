@@ -7,9 +7,9 @@ problem 1 programming: python app.py
 3. d.
 4. b.
 5. c.
-6. e.
-7. e.
-8. a.
+6. e. (B)
+7. e. (D)
+8. a. (D)
 9. a.
 10. b.
 11. c.
@@ -22,8 +22,8 @@ problem 1 programming: python app.py
 18. b.
 19. b.
 20. c.
-21. b.
+21. b. 
 22. a.
 23. e.
-24. e.
+24. e. (C)
 25. a.
